@@ -1,0 +1,8 @@
+.lisTitle,
+.isLoadingText {
+  font-size: 30px;
+}
+
+.lisTitle > li {
+  list-style: none;
+}
